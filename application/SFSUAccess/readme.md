@@ -1,6 +1,3 @@
-# Application Folder
-
-# ---------------------------------------------
 # Deploying to AWS / EC2
 ### Prerequisites
 > Apache, mod_wsgi, Python 3.6 
